@@ -1,4 +1,4 @@
-html { 
+body { 
   background-color:blue;
 }
 
@@ -18,4 +18,5 @@ h1 {
 .kitten {
   width:100%;
   border: 5px solid white;
+
 }
