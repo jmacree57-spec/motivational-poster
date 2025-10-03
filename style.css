@@ -1,0 +1,21 @@
+html { 
+  background-color:blue;
+}
+
+h1 {
+  font-size:3rem;
+  text-transform:uppercase;
+}
+.poster {
+  width:50%;
+  margin-left:25%;
+  margin-top:75px;
+  font-family:"Libre Baskerville"; serif;
+  color:white;
+  text-align:center
+}
+
+.kitten {
+  width:100%;
+  border: 5px solid white;
+}
